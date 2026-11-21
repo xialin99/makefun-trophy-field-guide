@@ -1,5 +1,7 @@
 # Trophy Field Guide
 
+[在线使用 / Open in browser](https://xialin99.github.io/makefun-trophy-field-guide/)
+
 ## 中文
 
 离线奖杯清单，支持分类筛选、隐藏剧情内容、浏览解锁路线和导入导出进度。下载后用浏览器打开 `index.html` 即可。内置虚构奖杯示例，数据字段见 `app/data/catalog.js`，路线配置见 `app/guide.js`。
