@@ -1,4 +1,4 @@
-# Trophy Field Guide
+# 奖杯指南 / Trophy Field Guide
 
 [在线使用 / Open in browser](https://xialin99.github.io/makefun-trophy-field-guide/)
 
